@@ -11,3 +11,12 @@ The dataset consists of in situ movies taken of Pt/CeO2 catalyst at room tempera
 Regitsration for accessing dataset can be done through [here](https://docs.google.com/forms/d/e/1FAIpQLScdHMCEn5YFgX-e1RmuhN5p6fbicLKxJEcQ8vx2mnPvBcKfGA/viewform?usp=sf_link)
 
 The dataset can be downloaded [here](https://arizonastateu.sharepoint.com/:f:/r/sites/O365FSESEMTEElectronMicroscopyBigData/Shared%20Documents/General/Vacuum%20Data%20for%20NYU%20folks?csf=1&web=1&e=7qPYPj)
+
+## Access for reviewers
+In order to allow a blind access to the dataset, an account has been set for you. 
+
+**email**: denoising.dataset.neurips2022@gmail.com
+
+**Password**: Denoising_Neurips_2022
+
+In order to log in to the dataset you will have to provide the email address. A one-time access code will be sent to the email address.
